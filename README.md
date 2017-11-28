@@ -5,4 +5,4 @@
 
 
 ## Tutorial
-[用 ConstraintLayout 解決鍵盤擋住輸入框及按鈕](https://medium.com/@joetsai/%E4%BD%BF%E7%94%A8keystore-%E5%84%B2%E5%AD%98%E6%95%8F%E6%84%9F%E6%80%A7%E8%B3%87%E6%96%99-92ad9b236e58)
+[用 ConstraintLayout 解決鍵盤擋住輸入框及按鈕](https://medium.com/@joetsai/%E7%94%A8-constraintlayout-%E8%A7%A3%E6%B1%BA%E9%8D%B5%E7%9B%A4%E6%93%8B%E4%BD%8F%E8%BC%B8%E5%85%A5%E6%A1%86%E5%8F%8A%E6%8C%89%E9%88%95-642fe2a9b855)
