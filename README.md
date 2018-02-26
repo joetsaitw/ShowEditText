@@ -3,6 +3,7 @@
 
 <img src="https://github.com/joetsaitw/ShowEditText/blob/master/screenshot/Demo.gif" width="320">
 
+## Idea
 <img src="https://github.com/joetsaitw/ShowEditText/blob/master/screenshot/idea.png" width="320">
 
 ## Tutorial
